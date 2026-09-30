@@ -1,0 +1,301 @@
+Date,Product,Category,Region,Quantity,Revenue,Cost,Profit
+2025-01-01,Watch,Accessories,West,2,9456,6004.75,3451.25
+2025-01-02,Office Chair,Furniture,South,8,63128,48308.81,14819.19
+2025-01-03,Shoes,Fashion,East,7,13258,9593.84,3664.16
+2025-01-04,Desk,Furniture,East,10,171470,121787.23,49682.77
+2025-01-05,Watch,Accessories,West,10,33340,24130.39,9209.61
+2025-01-07,Jacket,Fashion,North,2,6966,4343.88,2622.12
+2025-01-08,Headphones,Electronics,South,6,18390,12177.97,6212.03
+2025-01-09,Watch,Accessories,North,6,28230,19089.25,9140.75
+2025-01-10,Shoes,Fashion,North,3,7842,5090.27,2751.73
+2025-01-11,Desk,Furniture,South,2,31108,19187.55,11920.45
+2025-01-13,Office Chair,Furniture,South,1,7188,4409.03,2778.97
+2025-01-14,Shoes,Fashion,South,6,30486,22155.67,8330.33
+2025-01-15,Shoes,Fashion,West,5,17195,13572.18,3622.82
+2025-01-16,Headphones,Electronics,West,9,42579,25740.33,16838.67
+2025-01-18,Backpack,Accessories,North,1,2147,1652.37,494.63
+2025-01-19,Desk,Furniture,North,7,76132,57079.0,19053.0
+2025-01-20,Smartphone,Electronics,East,5,133975,89745.09,44229.91
+2025-01-21,Shoes,Fashion,South,5,29730,22498.08,7231.92
+2025-01-22,Backpack,Accessories,North,2,4460,2718.26,1741.74
+2025-01-24,Smartphone,Electronics,South,3,64428,39927.64,24500.36
+2025-01-25,Desk,Furniture,South,7,114779,89642.15,25136.85
+2025-01-26,Laptop,Electronics,West,6,348432,274834.5,73597.5
+2025-01-27,Jacket,Fashion,North,2,4732,3002.81,1729.19
+2025-01-29,Backpack,Accessories,East,6,16404,11085.18,5318.82
+2025-01-30,T-Shirt,Fashion,East,2,2936,2227.31,708.69
+2025-01-31,Laptop,Electronics,South,2,149782,115192.78,34589.22
+2025-02-01,Jacket,Fashion,South,2,5472,3323.82,2148.18
+2025-02-02,Headphones,Electronics,North,3,10473,7425.09,3047.91
+2025-02-04,Watch,Accessories,East,2,7244,5806.14,1437.86
+2025-02-05,Office Chair,Furniture,North,4,33124,23034.46,10089.54
+2025-02-06,T-Shirt,Fashion,North,9,7614,5242.48,2371.52
+2025-02-07,Headphones,Electronics,East,6,12828,7541.37,5286.63
+2025-02-08,Desk,Furniture,North,1,8205,5106.24,3098.76
+2025-02-10,Headphones,Electronics,North,8,25520,15815.34,9704.66
+2025-02-11,Watch,Accessories,South,7,35504,28387.69,7116.31
+2025-02-12,Desk,Furniture,North,10,133200,102206.89,30993.11
+2025-02-13,T-Shirt,Fashion,West,3,4506,3297.24,1208.76
+2025-02-15,Watch,Accessories,North,1,3703,2336.75,1366.25
+2025-02-16,Smartphone,Electronics,East,5,114720,92998.56,21721.44
+2025-02-17,Office Chair,Furniture,South,4,22752,16239.31,6512.69
+2025-02-18,T-Shirt,Fashion,East,10,8410,5050.07,3359.93
+2025-02-19,Smartphone,Electronics,South,8,223328,139417.21,83910.79
+2025-02-21,Jacket,Fashion,North,1,2126,1536.87,589.13
+2025-02-22,T-Shirt,Fashion,West,10,16640,11237.93,5402.07
+2025-02-23,Jacket,Fashion,West,1,4282,2699.28,1582.72
+2025-02-24,Desk,Furniture,West,4,63656,42258.22,21397.78
+2025-02-26,Smartphone,Electronics,North,8,165736,103711.8,62024.2
+2025-02-27,Office Chair,Furniture,North,5,47620,31936.55,15683.45
+2025-02-28,Watch,Accessories,South,2,9990,7202.68,2787.32
+2025-03-01,Shoes,Fashion,East,6,15408,11804.48,3603.52
+2025-03-02,Headphones,Electronics,South,5,22230,15708.51,6521.49
+2025-03-04,Laptop,Electronics,West,2,123290,84550.19,38739.81
+2025-03-05,Office Chair,Furniture,North,3,21483,15022.69,6460.31
+2025-03-06,Smartphone,Electronics,West,9,273078,220392.44,52685.56
+2025-03-07,Shoes,Fashion,South,7,22967,18267.57,4699.43
+2025-03-08,Office Chair,Furniture,West,7,79135,53661.14,25473.86
+2025-03-10,Smartphone,Electronics,North,6,194532,158532.6,35999.4
+2025-03-11,Backpack,Accessories,South,8,20984,15776.47,5207.53
+2025-03-12,Backpack,Accessories,East,4,6528,4650.63,1877.37
+2025-03-13,Jacket,Fashion,North,8,29264,18596.04,10667.96
+2025-03-15,Office Chair,Furniture,North,4,29960,21011.6,8948.4
+2025-03-16,Backpack,Accessories,West,8,9016,5454.55,3561.45
+2025-03-17,Smartphone,Electronics,East,9,191700,119400.48,72299.52
+2025-03-18,Jacket,Fashion,North,3,14562,10965.12,3596.88
+2025-03-19,Smartphone,Electronics,South,3,77910,49734.73,28175.27
+2025-03-21,Jacket,Fashion,South,2,9898,7173.75,2724.25
+2025-03-22,Office Chair,Furniture,West,10,119570,93175.25,26394.75
+2025-03-23,Shoes,Fashion,North,3,5892,3616.86,2275.14
+2025-03-24,Watch,Accessories,North,3,19515,12691.69,6823.31
+2025-03-26,T-Shirt,Fashion,North,5,7215,4335.22,2879.78
+2025-03-27,Shoes,Fashion,South,5,12870,9737.66,3132.34
+2025-03-28,Desk,Furniture,East,2,22484,13703.24,8780.76
+2025-03-29,Smartphone,Electronics,North,10,271060,195144.22,75915.78
+2025-03-30,Desk,Furniture,West,6,67062,53263.4,13798.6
+2025-04-01,Shoes,Fashion,South,5,26970,17321.8,9648.2
+2025-04-02,Jacket,Fashion,North,6,19254,12845.0,6409.0
+2025-04-03,T-Shirt,Fashion,North,1,1642,1058.0,584.0
+2025-04-04,T-Shirt,Fashion,North,5,3800,2518.82,1281.18
+2025-04-05,Laptop,Electronics,West,9,506511,360884.69,145626.31
+2025-04-07,T-Shirt,Fashion,East,10,17490,13758.62,3731.38
+2025-04-08,Watch,Accessories,South,2,14972,12091.82,2880.18
+2025-04-09,T-Shirt,Fashion,East,1,1353,1037.94,315.06
+2025-04-10,Shoes,Fashion,South,10,45610,32647.02,12962.98
+2025-04-12,Laptop,Electronics,East,9,513954,408435.41,105518.59
+2025-04-13,Shoes,Fashion,North,10,45680,31809.12,13870.88
+2025-04-14,Shoes,Fashion,East,9,45720,29465.74,16254.26
+2025-04-15,Headphones,Electronics,North,9,34191,25565.4,8625.6
+2025-04-16,Laptop,Electronics,North,6,337824,216846.88,120977.12
+2025-04-18,Shoes,Fashion,South,8,24808,19359.75,5448.25
+2025-04-19,Headphones,Electronics,North,1,3251,1988.79,1262.21
+2025-04-20,Headphones,Electronics,North,10,32760,20350.61,12409.39
+2025-04-21,Laptop,Electronics,South,4,255984,149600.57,106383.43
+2025-04-23,Desk,Furniture,West,1,17367,10563.66,6803.34
+2025-04-24,Jacket,Fashion,North,8,25432,17790.75,7641.25
+2025-04-25,Watch,Accessories,North,1,3581,2553.26,1027.74
+2025-04-26,Jacket,Fashion,West,3,14535,11324.77,3210.23
+2025-04-27,T-Shirt,Fashion,West,4,3364,2061.64,1302.36
+2025-04-29,Watch,Accessories,South,8,17160,12968.23,4191.77
+2025-04-30,T-Shirt,Fashion,South,6,6654,4818.32,1835.68
+2025-05-01,Shoes,Fashion,East,10,22540,16174.49,6365.51
+2025-05-02,Smartphone,Electronics,North,7,207648,141305.49,66342.51
+2025-05-03,Laptop,Electronics,West,8,592520,403677.15,188842.85
+2025-05-05,Watch,Accessories,West,2,11450,7097.95,4352.05
+2025-05-06,Watch,Accessories,North,10,28860,18015.83,10844.17
+2025-05-07,Shoes,Fashion,North,8,41304,31599.07,9704.93
+2025-05-08,Desk,Furniture,West,3,33372,22473.74,10898.26
+2025-05-10,Headphones,Electronics,South,7,17633,12077.31,5555.69
+2025-05-11,Shoes,Fashion,East,3,8808,6633.9,2174.1
+2025-05-12,Backpack,Accessories,East,7,14350,11592.41,2757.59
+2025-05-13,Headphones,Electronics,East,2,2508,1854.12,653.88
+2025-05-14,Laptop,Electronics,West,10,598530,366539.96,231990.04
+2025-05-16,Headphones,Electronics,West,6,27498,17367.34,10130.66
+2025-05-17,Desk,Furniture,West,3,44145,31323.63,12821.37
+2025-05-18,Headphones,Electronics,East,3,14214,10274.15,3939.85
+2025-05-19,Laptop,Electronics,West,9,637650,499367.87,138282.13
+2025-05-21,Desk,Furniture,East,7,102718,74290.0,28428.0
+2025-05-22,Jacket,Fashion,East,5,11405,8321.09,3083.91
+2025-05-23,Watch,Accessories,North,10,30240,20038.6,10201.4
+2025-05-24,Watch,Accessories,West,7,26901,20303.94,6597.06
+2025-05-25,T-Shirt,Fashion,West,9,15660,11732.19,3927.81
+2025-05-27,Jacket,Fashion,East,1,3439,2353.51,1085.49
+2025-05-28,Jacket,Fashion,West,7,20034,11984.82,8049.18
+2025-05-29,Headphones,Electronics,East,6,28614,22086.0,6528.0
+2025-05-30,Watch,Accessories,North,10,16710,13572.66,3137.34
+2025-05-31,Laptop,Electronics,North,9,663354,434830.65,228523.35
+2025-06-02,Office Chair,Furniture,North,1,9090,7371.11,1718.89
+2025-06-03,Office Chair,Furniture,South,4,40544,32761.86,7782.14
+2025-06-04,Desk,Furniture,North,9,134838,81011.92,53826.08
+2025-06-05,Watch,Accessories,East,4,20652,16304.9,4347.1
+2025-06-07,Watch,Accessories,South,10,73950,54231.07,19718.93
+2025-06-08,Office Chair,Furniture,East,3,24456,18051.17,6404.83
+2025-06-09,Watch,Accessories,South,9,35289,25864.56,9424.44
+2025-06-10,Headphones,Electronics,East,2,4846,3101.05,1744.95
+2025-06-11,Backpack,Accessories,South,4,7648,5622.81,2025.19
+2025-06-13,Smartphone,Electronics,North,6,191094,112642.73,78451.27
+2025-06-14,Jacket,Fashion,South,2,5154,3716.98,1437.02
+2025-06-15,T-Shirt,Fashion,East,8,7200,4488.03,2711.97
+2025-06-16,Desk,Furniture,South,8,112992,78367.91,34624.09
+2025-06-18,Backpack,Accessories,West,1,1190,699.89,490.11
+2025-06-19,Office Chair,Furniture,North,3,16884,12754.94,4129.06
+2025-06-20,Jacket,Fashion,South,10,47300,37927.75,9372.25
+2025-06-21,Watch,Accessories,West,9,27189,18521.77,8667.23
+2025-06-22,T-Shirt,Fashion,East,5,5465,4146.93,1318.07
+2025-06-24,Watch,Accessories,South,6,23514,18404.22,5109.78
+2025-06-25,Laptop,Electronics,East,4,237988,167873.0,70115.0
+2025-06-26,Laptop,Electronics,East,10,556140,327500.74,228639.26
+2025-06-27,T-Shirt,Fashion,East,2,3364,2245.56,1118.44
+2025-06-28,T-Shirt,Fashion,North,8,8952,5451.2,3500.8
+2025-06-30,Office Chair,Furniture,North,6,61302,48575.68,12726.32
+2025-07-01,T-Shirt,Fashion,East,5,8470,5603.5,2866.5
+2025-07-02,Headphones,Electronics,West,9,12438,8421.48,4016.52
+2025-07-03,Watch,Accessories,East,1,1538,1008.42,529.58
+2025-07-05,Backpack,Accessories,North,5,10860,8023.34,2836.66
+2025-07-06,Shoes,Fashion,East,6,27414,19322.49,8091.51
+2025-07-07,T-Shirt,Fashion,East,5,4960,3609.92,1350.08
+2025-07-08,Desk,Furniture,North,6,93012,64258.85,28753.15
+2025-07-09,Laptop,Electronics,South,6,333270,194997.83,138272.17
+2025-07-11,Headphones,Electronics,East,7,13706,8559.58,5146.42
+2025-07-12,Jacket,Fashion,South,4,12388,9977.0,2411.0
+2025-07-13,Shoes,Fashion,South,8,44880,26784.7,18095.3
+2025-07-14,Backpack,Accessories,South,7,11291,7499.15,3791.85
+2025-07-16,Shoes,Fashion,North,9,34488,23329.87,11158.13
+2025-07-17,T-Shirt,Fashion,North,7,5208,3620.33,1587.67
+2025-07-18,Office Chair,Furniture,West,3,15813,12487.25,3325.75
+2025-07-19,Laptop,Electronics,West,3,196848,150467.78,46380.22
+2025-07-20,Laptop,Electronics,South,8,578432,382186.75,196245.25
+2025-07-22,Jacket,Fashion,West,5,10695,8096.33,2598.67
+2025-07-23,Office Chair,Furniture,East,4,35040,21252.24,13787.76
+2025-07-24,Watch,Accessories,South,8,21320,13885.3,7434.7
+2025-07-25,Smartphone,Electronics,South,6,120198,78262.59,41935.41
+2025-07-26,Headphones,Electronics,North,2,6362,4589.46,1772.54
+2025-07-28,Laptop,Electronics,North,4,277144,189196.66,87947.34
+2025-07-29,Desk,Furniture,East,4,60224,44753.38,15470.62
+2025-07-30,Laptop,Electronics,East,6,392556,317181.59,75374.41
+2025-07-31,Shoes,Fashion,North,6,23448,15057.27,8390.73
+2025-08-02,Laptop,Electronics,West,1,59805,48786.49,11018.51
+2025-08-03,Laptop,Electronics,West,8,505616,402922.23,102693.77
+2025-08-04,Smartphone,Electronics,North,6,195366,121144.14,74221.86
+2025-08-05,Smartphone,Electronics,West,3,98697,58783.61,39913.39
+2025-08-06,Backpack,Accessories,West,9,21663,17465.92,4197.08
+2025-08-08,Watch,Accessories,West,2,13858,10058.92,3799.08
+2025-08-09,Desk,Furniture,North,8,84512,51457.78,33054.22
+2025-08-10,Laptop,Electronics,East,10,622740,387572.66,235167.34
+2025-08-11,Laptop,Electronics,East,3,220947,130097.05,90849.95
+2025-08-13,Headphones,Electronics,East,5,18765,14394.64,4370.36
+2025-08-14,Smartphone,Electronics,West,6,203256,120710.13,82545.87
+2025-08-15,Desk,Furniture,East,10,142140,89820.79,52319.21
+2025-08-16,Jacket,Fashion,West,6,20064,16104.58,3959.42
+2025-08-17,Backpack,Accessories,West,4,10852,7661.59,3190.41
+2025-08-19,Watch,Accessories,West,3,10242,6914.35,3327.65
+2025-08-20,Office Chair,Furniture,South,4,30948,21598.14,9349.86
+2025-08-21,Watch,Accessories,North,1,7859,6250.93,1608.07
+2025-08-22,Shoes,Fashion,South,4,23476,17125.86,6350.14
+2025-08-23,Laptop,Electronics,West,1,55892,39620.38,16271.62
+2025-08-25,Backpack,Accessories,North,1,1379,991.81,387.19
+2025-08-26,Shoes,Fashion,South,10,54810,37807.04,17002.96
+2025-08-27,Desk,Furniture,North,6,86940,56120.66,30819.34
+2025-08-28,Office Chair,Furniture,East,5,31090,25162.89,5927.11
+2025-08-30,Smartphone,Electronics,West,4,127096,93702.55,33393.45
+2025-08-31,Backpack,Accessories,West,3,6654,3998.23,2655.77
+2025-09-01,Backpack,Accessories,North,1,1783,1142.25,640.75
+2025-09-02,Laptop,Electronics,West,6,354798,227901.27,126896.73
+2025-09-03,T-Shirt,Fashion,East,2,3398,2375.24,1022.76
+2025-09-05,Backpack,Accessories,South,8,10024,8128.55,1895.45
+2025-09-06,Headphones,Electronics,East,10,29110,21657.32,7452.68
+2025-09-07,Office Chair,Furniture,South,5,45180,36955.17,8224.83
+2025-09-08,Office Chair,Furniture,South,7,71631,50058.26,21572.74
+2025-09-10,Headphones,Electronics,East,10,34710,24430.94,10279.06
+2025-09-11,Jacket,Fashion,North,2,7924,6164.27,1759.73
+2025-09-12,Headphones,Electronics,South,8,22328,16498.31,5829.69
+2025-09-13,Headphones,Electronics,South,2,6574,4705.51,1868.49
+2025-09-14,Office Chair,Furniture,North,4,43472,32870.85,10601.15
+2025-09-16,Watch,Accessories,South,1,5811,4482.5,1328.5
+2025-09-17,Office Chair,Furniture,East,5,41195,26318.19,14876.81
+2025-09-18,T-Shirt,Fashion,West,9,9630,7589.89,2040.11
+2025-09-19,Laptop,Electronics,West,1,73088,48249.93,24838.07
+2025-09-20,Shoes,Fashion,West,9,39636,29623.67,10012.33
+2025-09-22,Watch,Accessories,West,8,54312,32880.49,21431.51
+2025-09-23,Smartphone,Electronics,East,6,130428,99210.32,31217.68
+2025-09-24,Shoes,Fashion,North,7,16492,13016.19,3475.81
+2025-09-25,Laptop,Electronics,South,3,214110,169356.12,44753.88
+2025-09-27,T-Shirt,Fashion,South,1,925,565.11,359.89
+2025-09-28,T-Shirt,Fashion,North,5,4310,2736.29,1573.71
+2025-09-29,Smartphone,Electronics,East,2,55532,34351.12,21180.88
+2025-09-30,Watch,Accessories,South,5,19515,13923.63,5591.37
+2025-10-01,Jacket,Fashion,West,8,19104,13407.04,5696.96
+2025-10-03,Headphones,Electronics,West,9,13446,8421.93,5024.07
+2025-10-04,Watch,Accessories,East,2,14288,10402.56,3885.44
+2025-10-05,Jacket,Fashion,South,3,8808,6292.11,2515.89
+2025-10-06,T-Shirt,Fashion,North,3,2577,1655.34,921.66
+2025-10-08,Office Chair,Furniture,West,1,9795,5702.43,4092.57
+2025-10-09,Laptop,Electronics,West,8,448056,271376.48,176679.52
+2025-10-10,Smartphone,Electronics,North,6,196494,114835.54,81658.46
+2025-10-11,Laptop,Electronics,East,8,515512,402939.21,112572.79
+2025-10-12,Desk,Furniture,North,9,75915,55556.82,20358.18
+2025-10-14,Desk,Furniture,North,5,82185,62533.56,19651.44
+2025-10-15,Watch,Accessories,North,3,5331,4291.11,1039.89
+2025-10-16,T-Shirt,Fashion,South,5,4915,2930.72,1984.28
+2025-10-17,T-Shirt,Fashion,West,5,6150,3812.57,2337.43
+2025-10-18,Headphones,Electronics,East,5,18855,11240.67,7614.33
+2025-10-20,Headphones,Electronics,South,3,6255,4147.14,2107.86
+2025-10-21,Headphones,Electronics,East,10,16730,10003.31,6726.69
+2025-10-22,Office Chair,Furniture,West,4,45412,35837.74,9574.26
+2025-10-23,Shoes,Fashion,West,9,22374,18179.56,4194.44
+2025-10-25,Backpack,Accessories,North,10,15620,9547.27,6072.73
+2025-10-26,Shoes,Fashion,South,9,38052,25573.49,12478.51
+2025-10-27,Laptop,Electronics,North,2,132592,87201.31,45390.69
+2025-10-28,Shoes,Fashion,South,8,46392,35485.14,10906.86
+2025-10-29,Office Chair,Furniture,North,8,77320,44864.7,32455.3
+2025-10-31,Laptop,Electronics,East,7,467215,301666.9,165548.1
+2025-11-01,Shoes,Fashion,South,8,41248,33271.99,7976.01
+2025-11-02,Office Chair,Furniture,North,3,34620,27177.06,7442.94
+2025-11-03,Backpack,Accessories,North,6,10116,7872.48,2243.52
+2025-11-05,Shoes,Fashion,South,1,2898,1834.39,1063.61
+2025-11-06,Office Chair,Furniture,North,7,57407,43943.76,13463.24
+2025-11-07,Headphones,Electronics,South,1,4355,3210.0,1145.0
+2025-11-08,T-Shirt,Fashion,North,9,12132,9841.2,2290.8
+2025-11-09,Headphones,Electronics,North,1,4711,3221.2,1489.8
+2025-11-11,T-Shirt,Fashion,South,1,520,415.11,104.89
+2025-11-12,Smartphone,Electronics,East,7,238931,182166.39,56764.61
+2025-11-13,Smartphone,Electronics,North,2,47252,32048.2,15203.8
+2025-11-14,Smartphone,Electronics,North,5,150775,113663.46,37111.54
+2025-11-15,Backpack,Accessories,North,8,22240,13968.64,8271.36
+2025-11-17,Headphones,Electronics,West,8,34048,25072.95,8975.05
+2025-11-18,T-Shirt,Fashion,South,3,5382,3730.63,1651.37
+2025-11-19,Office Chair,Furniture,East,7,60270,48961.32,11308.68
+2025-11-20,Laptop,Electronics,West,3,184719,116167.62,68551.38
+2025-11-22,Office Chair,Furniture,North,6,52056,39894.85,12161.15
+2025-11-23,Laptop,Electronics,West,6,382692,263631.34,119060.66
+2025-11-24,Desk,Furniture,East,3,31899,24327.64,7571.36
+2025-11-25,Office Chair,Furniture,North,7,80710,62246.09,18463.91
+2025-11-26,Shoes,Fashion,South,3,7476,5972.13,1503.87
+2025-11-28,Shoes,Fashion,West,8,37968,23711.4,14256.6
+2025-11-29,Watch,Accessories,South,10,20260,14092.15,6167.85
+2025-11-30,Headphones,Electronics,West,4,13812,9994.34,3817.66
+2025-12-01,Laptop,Electronics,South,1,68547,43829.61,24717.39
+2025-12-03,Laptop,Electronics,West,4,254848,160076.64,94771.36
+2025-12-04,Headphones,Electronics,South,7,15512,9595.69,5916.31
+2025-12-05,Backpack,Accessories,West,4,7252,4773.43,2478.57
+2025-12-06,Watch,Accessories,East,6,23598,18203.83,5394.17
+2025-12-07,Backpack,Accessories,North,9,10746,8771.36,1974.64
+2025-12-09,Backpack,Accessories,North,1,871,602.3,268.7
+2025-12-10,Backpack,Accessories,North,5,14065,9482.6,4582.4
+2025-12-11,Headphones,Electronics,North,7,18123,14750.82,3372.18
+2025-12-12,Backpack,Accessories,North,1,965,627.25,337.75
+2025-12-13,Shoes,Fashion,East,4,10112,7952.37,2159.63
+2025-12-15,Smartphone,Electronics,East,6,109278,83029.29,26248.71
+2025-12-16,Desk,Furniture,West,2,33536,21399.01,12136.99
+2025-12-17,Laptop,Electronics,West,10,745010,457584.35,287425.65
+2025-12-18,Laptop,Electronics,East,5,318915,221890.06,97024.94
+2025-12-20,Desk,Furniture,East,10,97200,69431.48,27768.52
+2025-12-21,Headphones,Electronics,West,1,3151,2539.38,611.62
+2025-12-22,Office Chair,Furniture,South,6,30006,21250.79,8755.21
+2025-12-23,Headphones,Electronics,North,6,17808,11827.19,5980.81
+2025-12-24,Laptop,Electronics,North,4,277804,184982.0,92822.0
+2025-12-26,Laptop,Electronics,North,8,596464,364947.56,231516.44
+2025-12-27,Desk,Furniture,North,4,56056,35214.73,20841.27
+2025-12-28,Backpack,Accessories,North,8,23752,18339.89,5412.11
+2025-12-29,Headphones,Electronics,West,8,33928,20013.59,13914.41
+2025-12-31,T-Shirt,Fashion,West,5,4635,2804.62,1830.38
